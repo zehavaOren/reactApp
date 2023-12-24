@@ -32,7 +32,7 @@ Getting Started
 
 Follow these steps to run the UsersTable app locally:
 
-    Clone the repository: git clone https://github.com/your-username/UsersTable.git
+    Clone the repository: git clone https://github.com/zehavaOren/reactApp
 
     Navigate to the project directory: cd UsersTable
 
